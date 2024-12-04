@@ -1,0 +1,13 @@
+# ignore data files
+*.csv
+*.h5
+*.npy
+*.log
+*.pkl
+*.pickle
+*.pb
+*.zip
+**/.ipynb_checkpoints/
+**/__pycache__/
+**/model_checkpoint/
+**/archive/
